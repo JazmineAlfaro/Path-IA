@@ -6,6 +6,6 @@ Integrantes:
 - JuanPablo Heredia Parillo
 
 Ingredientes:
-- OpenGl
+- OpenGl 2.1
 - C++ 14
 - windows 7
