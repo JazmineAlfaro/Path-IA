@@ -5,7 +5,7 @@ Integrantes:
 - Anthony Benavides Arce
 - JuanPablo Heredia Parillo
 
-Ingredientes:
+Entorno:
 - OpenGl 2.1
 - C++ 14
 - windows 7
